@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>I am being changed nooo</p>
+        <p>
+          I am being changed on the feature branch so they can test the github
+          workflow
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
